@@ -1,0 +1,25 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Servidor de node js por Eder Lara.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon nodeserver/"
+  },
+  "keywords": [
+    "\"Servidor",
+    "NodeJS\"",
+    "\"Academia\"",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Eder Lara Trujillo",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
